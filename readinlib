@@ -1,0 +1,9 @@
+// ==UserScript==
+// @name        ReadInLib
+// @namespace   bigvik
+// @include     http://lib.ru/*.txt
+// @version     0.1
+// ==/UserScript==
+
+style = "body>pre>pre{margin: 0 auto}";
+GM_addStyle(style);
