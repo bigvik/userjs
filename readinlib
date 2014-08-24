@@ -8,5 +8,5 @@
 // ==/UserScript==
 
 style = "body{background-color:#fffbef}\
-	pre{width:1280px;margin: 0 auto;font-size:22px;font-family: Verdana sans-serif;color:#37405b}";
+	pre{width:1280px;margin: 0 auto;font-size:22px;font-family: Verdana, sans-serif;color:#37405b}";
 GM_addStyle(style);
