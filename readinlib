@@ -7,6 +7,6 @@
 // @description Style online library
 // ==/UserScript==
 
-style = "body{background-color:#CBC6AB}\
-	pre{width:1280px;margin: 0 auto;font-size:22px;font-family: Arial;color:#0E1D1B}";
+style = "body{background-color:#fffbef}\
+	pre{width:1280px;margin: 0 auto;font-size:22px;font-family: Verdana sans-serif;color:#37405b}";
 GM_addStyle(style);
