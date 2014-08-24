@@ -5,5 +5,5 @@
 // @version     0.1
 // ==/UserScript==
 
-style = "body>pre>pre{margin: 0 auto}";
+style = "body>pre>pre{width:1280px;margin: 0 auto}";
 GM_addStyle(style);
